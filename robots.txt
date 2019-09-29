@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yeuchaethu.nebertedrogy.cz/sitemap.xml
